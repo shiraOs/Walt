@@ -4,5 +4,5 @@ Implementation of a walt service with 3 options:
 3. Generate report on all drivers in a certain city.
 
 - Wrote in Spring Boot Framework.
-- Run as Maven project by the command: 'mvn clean install'.
+- Run as Maven project.
 - Include JUnit tests.
