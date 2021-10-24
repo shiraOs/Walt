@@ -1,4 +1,4 @@
-Implemention of a walt service with 3 options:
+Implementation of a walt service with 3 options:
 1. Create deliveries.
 2. Generate report on all drivers.
 3. Generate report on all drivers in a certain city.
